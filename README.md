@@ -1,5 +1,5 @@
 # WordAnalogies
-Find word simillarity and analogies using WORD2VEC
+Find word simillarity and analogies using GloVe
 
 About me:
 My name is Goussha,
