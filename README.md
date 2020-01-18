@@ -12,5 +12,5 @@ https://web.stanford.edu/class/cs224n/materials/Gensim%20word%20vector%20visuali
 
 here you can also download other related files.
 
-I have made some changes to make it friendiler,
+I have made some changes to make it friendlier,
 for the original work, go to the website
